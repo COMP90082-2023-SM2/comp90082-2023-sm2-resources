@@ -1,6 +1,6 @@
 # Sprint 3 Assessment Checklist
 This checklist helps you double check your work for Sprint 3. 
-In this sprint, we will assess your Confluence, Trello, JIRA and other tools used as part of your software development process (instead of just looking at your release on GitHub, like it happened in Sprint 1). We believe these tools will give us better metrics to assess teams' efforts (as per your suggestions in our feedback session on April 19, during our seminar). Thank you very much for working together with us in this.
+In this sprint, we will assess your Confluence, Trello, JIRA and other tools used as part of your software development process. We believe these tools will give us better metrics to assess teams' efforts. Thank you very much for working together with us in this.
 
 In saying this, it's important we keep our 'package' on GitHub organised.
 Later, this might be used as a technical portfolio for you.
