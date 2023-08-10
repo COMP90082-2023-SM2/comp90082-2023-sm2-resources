@@ -40,6 +40,14 @@ Make sure that your sprint planning and review are documented on Confluence:
 - [ ] Clear indication that sprint planning was followed this sprint and a clear, consistent, updated sprint planning for Sprint 4.
 - [ ] Clear indication that sprint review was followed this sprint. Team organised a meeting for this, documented discussions, reflections and next steps to be taken in Sprint 4.
 
+## Ethical Considerations
+Make sure that your ethical considerations are documented on Confluence:
+- [ ] Clear indication that students discussed/reflected on project ethical issues.
+
+## Cyber Security
+Make sure that your cyber security considerations are documented on Confluence:
+- [ ] Clear indication that students discussed/reflected on project cyber security issues.
+
 ## Product
 Make sure that your product satisfy the following criteria:
 
