@@ -24,7 +24,7 @@ Make sure that:
 Make sure that:
 
 - [ ] Students created an organised release to the client on Github, including: documents, tests, data samples, prototypes, and images. 
-- [ ] Release was downloaded from Github, packed in a ZIP file, sent to the client (together with release notes) and added to Confluence (under Handover page).
+- [ ] Release was downloaded from Github, packed in a ZIP file, sent to the client  and added to Confluence (under Handover page).
 
 
 ## Final Presentation Slides
